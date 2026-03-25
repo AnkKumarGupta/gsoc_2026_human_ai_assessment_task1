@@ -4,7 +4,7 @@
 
 ## Task 1: Optical Character Recognition of Printed Sources
 
-This repository contains the solution and experimental methodology for Task 1 of the GSoC 2026 assessment. The goal is to accurately transcribe 18th-century Spanish historical documents. Some of the key challenges werenavigating challenges were obsolete typography (e.g., the long 's' (ſ)), interchangeable 'u'/'v' usage, faded ink, and human-transcriber editorial conventions.
+This repository contains the solution and experimental methodology for Task 1 of the GSoC 2026 assessment. The goal is to accurately transcribe 18th-century Spanish historical documents given in specific dataset folder.
 
 ---
 
