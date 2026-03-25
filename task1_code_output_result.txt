@@ -1,0 +1,132 @@
+Evaluating 24 test images...
+
+================================================================================
+Processing: Buendia - Instruccion_page_2.jpg
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Ground Truth : Al INFINITAMENTE AMABLE NIÑO JESUS A Vos Dulcissimo Niño JESUS que no solo os dignasteis de llamaros Doctor de los Niños...
+Raw EasyOCR  : hombres Fausto Agustin de Buendia x 6 A K INFINITAMENTE AMABLB NINO JESUS Vos 9 Dulcilsimo Niño JEsvs 1 que no lolo OS E... | CER: 0.2466
+With VLM Correction  : AL INFINITAMENTE AMABLE NIÑO JESUS Vos Dulcissimo Niño Jesus que no folo os dignafteis de llamaros Doctor de los Niños f... | CER: 0.0986
+--------------------------------------------------------------------------------
+Processing: Buendia - Instruccion_page_3.jpg
+Ground Truth : guro disseño de su edad la Reli gion para con Dios en la devota assistencia a los Templos la piedad con los Padres en la...
+Raw EasyOCR  : sania con Dios y con lo hombres Fausto Agustin de Buendia guro difleño dfu edad la Reli gion para con Dios en la devora ... | CER: 0.1857
+With VLM Correction  : guro difleño de fu edad la Religion para con Dios en la devora afsiétcia los Templosla piedad con los Padres en la obedi... | CER: 0.1953
+--------------------------------------------------------------------------------
+Processing: Buendia - Instruccion_page_4.jpg
+Ground Truth : crianza de la niñez Assi sea Divinissimo Niño por vuestra gracia assi sea a vuestra ma yor gloria Amen CENSURA DEL R P A...
+Raw EasyOCR  : con Dios y con los hombres Fausto Agustin de Buendia Z CENSURA DBL R P ANTONIO COA dornlu de laGompahla de Jefus 9 Maefa... | CER: 0.4020
+With VLM Correction  : Crianzá de la Niñez Así fea Divinífimo Niño por vuestra gracia así fea a vuestra mayor gloria Amen... | CER: 0.9118
+--------------------------------------------------------------------------------
+Processing: Guardiola - Tratado nobleza_page_12.jpg
+Ground Truth : POR quanto por parte de vos fray Ivan Benito Guar diola monje professo de la orden de S Benito nos fue fecha relacion q ...
+Raw EasyOCR  : EL R EY 294 6920 ichado OR quáco por partcdc vos Fray IuáBcnico Guar diola monjc profcfo dc la orden de S Bcnitonos fuc ... | CER: 0.3113
+With VLM Correction  : EL REY OR qu qáto por parte de vos fray Iuá Benito Guardiola monje profecfo de la orden de SBenitonos fue fecha relación... | CER: 0.1759
+--------------------------------------------------------------------------------
+Processing: Guardiola - Tratado nobleza_page_13.jpg
+Ground Truth : dia de la fecha desta nuestra cedula podais imprimir el dicho libro que de suso se ha ze mencion por el original que en ...
+Raw EasyOCR  : dia dcla fccha dcfa nuclra ccdula podais imprinir cldicho libro que dc lulo c ha Ze menció por cloriginalquc cnclnuclro ... | CER: 0.2538
+With VLM Correction  : dia della fecha desta nuestra cedula podais imprinir el dicho libro que de sufo se ha zemenció por el original que en el... | CER: 0.0486
+--------------------------------------------------------------------------------
+Processing: Guardiola - Tratado nobleza_page_14.jpg
+Ground Truth : caer e incurrir en las penas contenidas en la dicha pragmatica e leyes de nuestros Reynos Y mandamos que durante el di c...
+Raw EasyOCR  : cacr c incurrir cn las pcnas contcnidas cn la dicha PIagmatica c lcyes de nucfros ReynosY mandamos quc durantc cl di cho... | CER: 0.2348
+With VLM Correction  : caer é incurrir en las penas contenidas en la dicha pragmatica e leyes de nuestros Reynos Y mandamos que durante el dich... | CER: 0.0394
+--------------------------------------------------------------------------------
+Processing: Covarrubias - Tesoro lengua_page_7.jpg
+Ground Truth : CENSURA DE PEDRO DE VALENCIA CORONISTA General de el Rey nuestro Señor POr mandado del Consejo Supremo de Castilla he vi...
+Raw EasyOCR  : CENSVRA DE PEDRO DE VALENCIA CORONISTA Generalde elRey nueftro Señor Por mndudo del Confcjo Supremo de Cafilla he vlo cl... | CER: 0.1743
+With VLM Correction  : CENSURA DE PEDRO DE VALENCIA CORONISTA General de el Rey nuestro Señor Por mandado del Consejo Supremo de Castilla he vi... | CER: 0.0547
+--------------------------------------------------------------------------------
+Processing: Covarrubias - Tesoro lengua_page_8.jpg
+Ground Truth : CARTA DE EL LICENCIADO DON BALTASAR SEBASTIAN NAVARRO DE ARROYTA COLEGIAL DEL Colegio de San Salvador de Oviedo el mayor...
+Raw EasyOCR  : CARTA DE EL LICENCIA DO DO N BALTASAR SEBASTIAN NAVARRO DE ARROYTA CLEGIAL DEL Colcgiode San Saluadorde Quiedo 8 elmayor... | CER: 0.1780
+With VLM Correction  : CARTE DE EL LICENCIADO DON BALTASAR SEBASTIAN NAVARRO DE ARROYOTA COLEGIAL DEL Colégio de San Saluador de Ouedo el mayor... | CER: 0.1305
+--------------------------------------------------------------------------------
+Processing: Covarrubias - Tesoro lengua_page_9.jpg
+Ground Truth : Conocimiento de las cosas depende del de los vocablos el que ayuda a esta ayuda mucho a todas las ciencias y assi los gr...
+Raw EasyOCR  : con inirntode ls cofas depende dcl de losvocablos elque ayuda a efla 2y a rilci átod2s 17s cie nciasy afsi los grands Fi... | CER: 0.2723
+With VLM Correction  : conciencia de las cosas depende del de los vocablos el que ayuda a ella ella ayudada nueve o todas las ciencias y así lo... | CER: 0.3867
+--------------------------------------------------------------------------------
+Processing: PORCONES.23.5 - 1628_page_1.jpg
+Ground Truth : POR DOÑA CATALINA DE Laçarraga y Zarate viuda de Marco Antonio de Caycedo y el señor Fiscal C O N Don Antonio del Barco ...
+Raw EasyOCR  : E J5 289 4 2hlp nod plde 069278096 G 01 72b2jnojup h25 L 23 0bu P 190688682 giponsb c 1s2 s5aldon s V26o8109 a6lo z3usll... | CER: 1.2570
+With VLM Correction  : POR DOÑA CATALINA DE Laçarraga y Zarate viuda de Marco Antonio de Caycedo y el feñor Fiscal CON Don Antonio del Barco y ... | CER: 0.0535
+--------------------------------------------------------------------------------
+Processing: PORCONES.23.5 - 1628_page_2_left.jpg
+Ground Truth : ca de Caycedo su hija donzella noble y honesta a que concedielle en su voluntad y para esto y violar su castidad aver qu...
+Raw EasyOCR  : 1 ca de Cayccdo luhija donzclla noble y honclaa quc concedicllc cn l voluntadsy para clloy violar u calidadaucr quebranr... | CER: 0.2381
+With VLM Correction  : ca de Cayccdo fu hija donzclla noble y honcla a que conced volunt lla hora ocos ocos... | CER: 0.9478
+--------------------------------------------------------------------------------
+Processing: PORCONES.23.5 - 1628_page_2_right.png
+Ground Truth : su Magestad no ha querellado y la hembra que es la doña Francisca casada oy con el matador no le pide han de prevalecer ...
+Raw EasyOCR  : 29 fu Magefad no ha quçEcllado Jalsobra 7uc i3l dona Érancifca calada Y con cl marador no Ic pidc doña Cacalinaq acula p... | CER: 0.2560
+With VLM Correction  : fu Magefadno ha querellado y la hembra que es la donia Francíca casada oy con el marador no le pide han de prengalecer a... | CER: 0.1159
+--------------------------------------------------------------------------------
+Processing: PORCONES.23.5 - 1628_page_3_right.jpg
+Ground Truth : admitio concurso de acosadores de la muerte con la viu da del muerto eo magis fiendo persona calificada y tal lexos de c...
+Raw EasyOCR  : 2025ws 3 admicio concurlo de aculadorcs de la muertc c laviu da dcl mucrro co magis fdo perlona calificadaY can lcxos dc... | CER: 0.2155
+With VLM Correction  : 3 admirió concurió de acusíadores de la muerte có laviu da del muerto co magís fiédo persona calificada y tan lexos de c... | CER: 0.0642
+--------------------------------------------------------------------------------
+Processing: PORCONES.23.5 - 1628_page_3_left.jpg
+Ground Truth : para preferir el mas conjunto I 3 fi tamen ff de libe r o homine exhib ibi Er ex coniunctione I 2 si mulier ff de colls ...
+Raw EasyOCR  : para preferir cl mas conjuntof tamcnf de libe ro hominc cxhibibiEi x coniundione 2Sfi mulicr ffidc colluldetegcnibiCuiws... | CER: 0.2288
+With VLM Correction  : para preferir el mas conjuntof tamcnf de libero hominc exhibibiEi ex conjuncione2Sfi mulicr ffid collus detegenibiCuis m... | CER: 0.1295
+--------------------------------------------------------------------------------
+Processing: PORCONES.23.5 - 1628_page_4_left.jpg
+Ground Truth : Bosi tit de pace vers Quando vxor occiditur a viro Iulius Clar q 58 num 31 vers contingit etiam Bona cosa in suis commun...
+Raw EasyOCR  : Bol tit dc pace vcrl Quando vxorocciditur viros Iulíus Clar95 num 31vetl contingit ctiam Bona colain luis communibusvcrl... | CER: 0.1794
+With VLM Correction  : Bohstitde pace verlsQuando vxorocciditur virio Iulius Clarq58num 31 vetl contingit etiam Bona cola in suis communibus ve... | CER: 0.0822
+--------------------------------------------------------------------------------
+Processing: PORCONES.748.6 - 1650_page_1.jpg
+Ground Truth : DEUS IN ADIUTORIUM MEUM INTENDE POR Don Felipe Leizado Caballero del Orden Santiago Ca pitan de Caballos del Ejército de...
+Raw EasyOCR  : Li 18 7 Us 12 C Bl lev P 6 448 Oioiors Huoijta DEVS IN ADIVTORIVM MEVM INTENDE 4426 8o4l 5unsnttssan9 36 tatatq403 39v P... | CER: 0.3857
+With VLM Correction  : DEVS IN ADIVTORIVM MEVM INTENDE POR DON FELIPE LEIZALDO Cauallero del Ordende Santiago Capitan de Cauallos del Exercito ... | CER: 0.1186
+--------------------------------------------------------------------------------
+Processing: PORCONES.748.6 - 1650_page_2.jpg
+Ground Truth : Artículo primero 3 Aunque es regular en estos delitos venéreos la prueba por presunciones ex responso Pontifi cis in cap...
+Raw EasyOCR  : Articulo Primero 38 Vnque es regolar en cfos delicos venercos la A prucua por prelumpciones ex refonlo Pontif cis in cap... | CER: 0.2101
+With VLM Correction  : Articulo Primero 3 Aunque es regular en estos delitos venereos la prueua por presumpciones ex responso Pontificis in cap... | CER: 0.0889
+--------------------------------------------------------------------------------
+Processing: PORCONES.748.6 - 1650_page_3.jpg
+Ground Truth : platillos si no nos gobernamos con prudencia Jacome y el cocinero hablan siempre en su lengua con parientes de Matias y ...
+Raw EasyOCR  : platillosf nonos gauernamo con prudencia Iacome elcocinero hablan fempre en fulengva nparientes de Matias plega Diossque... | CER: 0.2022
+With VLM Correction  : platillos si nos gobernamos con prudencia Iacome y el cocinero hablan siempre en su lengua y son parientes de Matías y p... | CER: 0.0767
+--------------------------------------------------------------------------------
+Processing: PORCONES.748.6 - 1650_page_4.jpg
+Ground Truth : tener aquí fuese por falta de voluntad o bien por mi seria de daros el alimento como merecéis porque si esto fuese respe...
+Raw EasyOCR  : tencr aqwifuefe porfalta de voluntad0 bien por mi fcrria é daros e alimento como mereceis porque f efo fweffe re edo vef... | CER: 0.2018
+With VLM Correction  : tener aqui fuese falta de volunt como porque ieron aqui... | CER: 0.9027
+--------------------------------------------------------------------------------
+Processing: PORCONES.228.38 – 1646_page_1.png
+Ground Truth : POR ANTONIO GOMEZ Oimentel mercader padre de Iacinto Gomez Pi mentel CON Doña Leonor Rabasco y doña Bernarda de Almeyda ...
+Raw EasyOCR  : 27S 0 3o4 Schinkla 612710202 Oooi7qcnosbcian 3990029 11 1l 293 8 P R 4 3 2 1 ur ANTONIO G 0 M E Z Pimentel mercader padr... | CER: 0.3436
+With VLM Correction  : POR ANTONIO GOMEZ Pimentel mercader padre de Lacinto Gomez Pi mencel CON Doña Leonor Rabalco y doña Bernarda de Almeyda ... | CER: 0.0586
+--------------------------------------------------------------------------------
+Processing: PORCONES.228.38 – 1646_page_2.png
+Ground Truth : ticia de esta parte en ajuitar con certeza y claridad el hecho verdadero de este negocio que consiste en que Iacinto Gom...
+Raw EasyOCR  : ticia dc cfa partc cn ajuitar con ccrtczayclaridad cl hccho veidadcro dc clle ncgocio quc conlifte cn quc lacinto Gomcz ... | CER: 0.2160
+With VLM Correction  : ticia de esta parte en ajuditar con certeza y claridad el hecho vedadero de este negocio que confiste en que Jacinto Gom... | CER: 0.0693
+--------------------------------------------------------------------------------
+Processing: PORCONES.228.38 – 1646_page_3.png
+Ground Truth : der seis mil ducados que auian tocado a su hijo Ia cinto Gomez por su legitima materna y para que dello constasse pidio ...
+Raw EasyOCR  : dcr lcis milducados quc aui tocado a fu hijo la cinto Gomcz por u legitima matcinay Para quc dello confafle pidio compul... | CER: 0.2096
+With VLM Correction  : der feis mil ducados que aquiát ocado a fu hijo la cinto Gomez por su legitima matcinay para que dello confafle pidio co... | CER: 0.0876
+--------------------------------------------------------------------------------
+Processing: PORCONES.228.38 – 1646_page_4.png
+Ground Truth : cobraren se ayan de partir entre todos 10 Antonio Gomez Oimentel respondió que se auia de declarar no auer lugar la pret...
+Raw EasyOCR  : cobrarcn le ayan dc parcir cntre todos nnvi 10 Anconio Gomcz Pimcnccl refpondiá fc auia dc declarar no Jucr lugar la prc... | CER: 0.2317
+With VLM Correction  : cobrarcn le ayan dc parcir cntre todos 10 Antonio Gomez Pimentel respondió q fe auia de declarar no auer lugar la pretci... | CER: 0.0798
+--------------------------------------------------------------------------------
+Processing: PORCONES.228.38 – 1646_page_5.png
+Ground Truth : 14 Otra carta de pago otorgada ante el dicho Escriuano en 19 de Enero de 1640 por Iacinto Gomez en que confiessa auer re...
+Raw EasyOCR  : Otra caita dc pago otorgada anteel Jicho Elcriuao cu 19dc Encro de 1640Por Jacinto Gonczen q confieia aucr recibido dc I... | CER: 0.2175
+With VLM Correction  : Otra carta de pago otorgada ante el dicho Elguazco cu 19 de Enero de 1640 por Jacinto Gomez que confieia au recibido de ... | CER: 0.6261
+--------------------------------------------------------------------------------
+
+All line-wise transcripts saved successfully to: ./output_transcriptions
+
+FINAL TWO-STAGE PIPELINE METRICS
+| Pipeline Stage                  | Avg CER | Avg WER |
+|---------------------------------|---------|---------|
+| 1. Base CRNN (EasyOCR)          | 0.2855  | 0.7621  |
+| 2. EasyOCR + Qwen 2.5-VL | 0.2310  | 0.4309  |
