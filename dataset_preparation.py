@@ -135,5 +135,5 @@ if __name__ == "__main__":
                 print(f"Error on {pdf_path} Page {page_num}: {e}")
 
     df = pd.DataFrame(csv_data)
-    df.to_csv(OUTPUT_CSV, index=False)
+    df.to_csv(OUTPUT_CSV, index=False, encoding="utf-8-sig")
     print(f"\nDataset build complete! Extracted {len(df)} page-level pairs.")
