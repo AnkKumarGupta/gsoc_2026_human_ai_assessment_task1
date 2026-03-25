@@ -136,8 +136,11 @@ A CUDA-enabled GPU with at least 15GB of VRAM (e.g., Google Colab T4).
 
 ### Setup
 1. Clone the repository.
-2. Install the required dependencies:
+2. Install the system dependency `poppler` (required for PDF parsing):
+   * **Ubuntu/Colab:** `sudo apt-get install poppler-utils`
+   * **Mac:** `brew install poppler`
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the code file `task1_code.py`
+4. Run the code file `task1_code.py`
