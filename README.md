@@ -143,4 +143,5 @@ A CUDA-enabled GPU with at least 15GB of VRAM (e.g., Google Colab T4).
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the code file `task1_code.py`
+4. Update the dataset paths in the code file `task1_code.py`
+5. Run the code file `task1_code.py`
